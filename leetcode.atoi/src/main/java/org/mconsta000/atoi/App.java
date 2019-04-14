@@ -1,4 +1,4 @@
-package org.msc.atoi;
+package org.mconsta000.atoi;
 
 import java.util.HashMap;
 import java.util.Map;
